@@ -10,6 +10,7 @@
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=Django&logoColor=20AA76)
 ![nginx](https://img.shields.io/badge/-nginx-090909?style=for-the-badge&logo=nginx&logoColor=00B140)
+![Lua](https://img.shields.io/badge/-lua-090909?style=for-the-badge&logo=lua&logoColor=0000FF)
 
 ## ✉️ My contacts:
 
