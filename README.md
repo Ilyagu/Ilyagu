@@ -21,4 +21,4 @@
 
 ![Ilyagu GitHub stats](https://github-readme-stats.vercel.app/api?username=Ilyagu&hide=issues&show_icons=true&theme=onedark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilyagu&langs_count=7&theme=onedark&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilyagu&langs_count=10&theme=onedark&layout=compact)
